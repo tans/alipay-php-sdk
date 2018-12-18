@@ -1,5 +1,5 @@
 {
-	"name": "tan/alipay-php-sdk",
+	"name": "tans/alipay-php-sdk",
 	"version": "0.2.0",
 	"description": "Refactored Alipay PHP SDK (include mobile version). 经重构的支付宝 PHP 开发包（含移动网页支付）",
 	"keywords": ["Alipay", "PHP", "SDK", "支付宝"],
@@ -14,6 +14,6 @@
 		"php": ">=5.3.0"
 	},
 	"autoload": {
-		"psr-4": {"tan\\sdk\\alipay\\": "./"}
+		"psr-4": {"tans\\sdk\\alipay\\": "./"}
 	}
 }
