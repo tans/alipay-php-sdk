@@ -2,7 +2,7 @@
 /**
  * 支付宝支付，包含 PC网页支付、wap网页支付、移动APP签名生成
  */
-namespace mytharcher\sdk\alipay;
+namespace tans\alipay;
 
 use \DOMDocument;
 
